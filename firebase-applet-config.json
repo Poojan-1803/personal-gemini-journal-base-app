@@ -1,7 +1,7 @@
 {
   "projectId": "newagent-fh9l",
   "appId": "1:837374069712:web:541ba0cc8db76daf3607d5",
-  "apiKey": "AIzaSyCAMKCD0P5tU_HmPRBXZFbyUq3Db1SumJg",
+  "apiKey": "YOUR API KEY",
   "authDomain": "newagent-fh9l.firebaseapp.com",
   "firestoreDatabaseId": "ai-studio-52ec8c34-eddd-42fb-a236-879e32e80e9c",
   "storageBucket": "newagent-fh9l.firebasestorage.app",
